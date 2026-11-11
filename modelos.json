@@ -1,0 +1,193 @@
+{
+  "default": "rayssa",
+  "modelos": {
+    "rayssa": {
+      "nome": "Rayssa Venâncio 🔥",
+      "handle": "@RayssaVenancio",
+      "localizacao": "São Paulo - BRA 📍",
+      "bio": "Ruivinha safada e sem frescura pronta pra te levar à loucura! 😈🔥 Aqui não tem tabus: compartilho meus ensaios mais quentes, vídeos explícitos, bastidores íntimos e momentos que você nunca viu em nenhuma outra rede social. Mais de 1.700 mídias liberadas pra você se deliciar... Assine o VIP e vem conversar comigo agora no privado! 💋🔞💦",
+      "fotoPerfil": "imgs/rayssa_avatar.jpg",
+      "fotoBanner": "imgs/rayssa_banner.jpg",
+      "fotoBannerPosicao": "center 28%",
+      "fotoPerfilPosicao": "center center",
+      "fotoPerfilScale": 1.0,
+      "estatisticas": {
+        "fotos": "842",
+        "videos": "915",
+        "trancados": "34",
+        "curtidas": "124.5K",
+        "postagensTab": "1.757 Postagens",
+        "midiasTab": "1.840 Mídias"
+      },
+      "redesSociais": {
+        "instagram": "#",
+        "twitter": "#",
+        "tiktok": "#"
+      },
+      "ofertaDestaque": {
+        "titulo": "Oferta Especial VIP Exclusiva",
+        "citacao": "Carinhosa, gostosa e completamente sem limites no VIP! Conteúdo explícito e novidades quentes todos os dias 😈🔥",
+        "duracaoSegundos": 109800,
+        "descontoBadge": "Economize 20%",
+        "precoOriginal": "24,00",
+        "precoOferta": "19,90",
+        "textoBotao": "Assinar agora R$ 19,90",
+        "checkoutUrl": "https://sharkautomacoes.com/a44804f8"
+      },
+      "planos": [
+        {
+          "id": "vitalicio",
+          "nome": "VIP VITALICIO + WHATSAPP 😈",
+          "duracao": "Vitalício",
+          "entrega": "Entrega padrão",
+          "preco": "29,90",
+          "destaque": true,
+          "checkoutUrl": "https://sharkautomacoes.com/d856bc77"
+        },
+        {
+          "id": "mensal",
+          "nome": "VIP 30 DIAS 60% OFF 🌸",
+          "duracao": "Mensal",
+          "entrega": "Entrega padrão",
+          "preco": "22,90",
+          "destaque": false,
+          "checkoutUrl": "https://sharkautomacoes.com/4c9d7c35"
+        },
+        {
+          "id": "semanal",
+          "nome": "VIP 7 DIAS 60% OFF 🌸",
+          "duracao": "Semanal",
+          "entrega": "Entrega padrão",
+          "preco": "15,90",
+          "destaque": false,
+          "checkoutUrl": "https://sharkautomacoes.com/384ad85d"
+        },
+        {
+          "id": "express",
+          "nome": "VIP 3 DIAS 60% OFF 🌸",
+          "duracao": "3 Dias",
+          "entrega": "Entrega padrão",
+          "preco": "10,90",
+          "destaque": false,
+          "checkoutUrl": "https://sharkautomacoes.com/25e605c7"
+        }
+      ],
+      "postagens": [
+        {
+          "tempo": "2h atrás",
+          "legenda": "Acabei de liberar um ensaio inédito e quentíssimo deitada na cama... 🔥 Mídia sem censura e 100% explícita já disponível para os meus assinantes VIP! Vem ver tudo sem frescura 😈💦🔞",
+          "midiaTeaser": "imgs/rayssa_banner.jpg",
+          "tituloTrancado": "Conteúdo Exclusivo Bloqueado",
+          "subtituloTrancado": "Assine para desbloquear 1.700+ fotos e vídeos explícitos",
+          "planoTriggerId": "vitalicio",
+          "curtidas": "2.842",
+          "comentarios": "619"
+        },
+        {
+          "tempo": "Ontem",
+          "legenda": "Quer meu WhatsApp pessoal e ter acesso direto a mim todos os dias? Garanta o plano VIP VITALÍCIO e vem conversar comigo agora mesmo no privado amor! 😈💬🔥",
+          "midiaTeaser": "imgs/rayssa_profile.jpg",
+          "tituloTrancado": "Vídeo Exclusivo em 4K",
+          "subtituloTrancado": "Apenas para membros VIP",
+          "planoTriggerId": "vitalicio",
+          "curtidas": "4.120",
+          "comentarios": "890"
+        }
+      ]
+    },
+    "kammilly": {
+      "nome": "Rayssa Venâncio 🔥",
+      "handle": "@RayssaVenancio",
+      "localizacao": "São Paulo - BRA 📍",
+      "bio": "Ruivinha safada e sem frescura pronta pra te levar à loucura! 😈🔥 Aqui não tem tabus: compartilho meus ensaios mais quentes, vídeos explícitos, bastidores íntimos e momentos que você nunca viu em nenhuma outra rede social. Mais de 1.700 mídias liberadas pra você se deliciar... Assine o VIP e vem conversar comigo agora no privado! 💋🔞💦",
+      "fotoPerfil": "imgs/rayssa_avatar.jpg",
+      "fotoBanner": "imgs/rayssa_banner.jpg",
+      "fotoBannerPosicao": "center 28%",
+      "fotoPerfilPosicao": "center center",
+      "fotoPerfilScale": 1.0,
+      "estatisticas": {
+        "fotos": "842",
+        "videos": "915",
+        "trancados": "34",
+        "curtidas": "124.5K",
+        "postagensTab": "1.757 Postagens",
+        "midiasTab": "1.840 Mídias"
+      },
+      "redesSociais": {
+        "instagram": "#",
+        "twitter": "#",
+        "tiktok": "#"
+      },
+      "ofertaDestaque": {
+        "titulo": "Oferta Especial VIP Exclusiva",
+        "citacao": "Carinhosa, gostosa e completamente sem limites no VIP! Conteúdo explícito e novidades quentes todos os dias 😈🔥",
+        "duracaoSegundos": 109800,
+        "descontoBadge": "Economize 20%",
+        "precoOriginal": "24,00",
+        "precoOferta": "19,90",
+        "textoBotao": "Assinar agora R$ 19,90",
+        "checkoutUrl": "https://sharkautomacoes.com/a44804f8"
+      },
+      "planos": [
+        {
+          "id": "vitalicio",
+          "nome": "VIP VITALICIO + WHATSAPP 😈",
+          "duracao": "Vitalício",
+          "entrega": "Entrega padrão",
+          "preco": "29,90",
+          "destaque": true,
+          "checkoutUrl": "https://sharkautomacoes.com/d856bc77"
+        },
+        {
+          "id": "mensal",
+          "nome": "VIP 30 DIAS 60% OFF 🌸",
+          "duracao": "Mensal",
+          "entrega": "Entrega padrão",
+          "preco": "22,90",
+          "destaque": false,
+          "checkoutUrl": "https://sharkautomacoes.com/4c9d7c35"
+        },
+        {
+          "id": "semanal",
+          "nome": "VIP 7 DIAS 60% OFF 🌸",
+          "duracao": "Semanal",
+          "entrega": "Entrega padrão",
+          "preco": "15,90",
+          "destaque": false,
+          "checkoutUrl": "https://sharkautomacoes.com/384ad85d"
+        },
+        {
+          "id": "express",
+          "nome": "VIP 3 DIAS 60% OFF 🌸",
+          "duracao": "3 Dias",
+          "entrega": "Entrega padrão",
+          "preco": "10,90",
+          "destaque": false,
+          "checkoutUrl": "https://sharkautomacoes.com/25e605c7"
+        }
+      ],
+      "postagens": [
+        {
+          "tempo": "2h atrás",
+          "legenda": "Acabei de liberar um ensaio inédito e quentíssimo deitada na cama... 🔥 Mídia sem censura e 100% explícita já disponível para os meus assinantes VIP! Vem ver tudo sem frescura 😈💦🔞",
+          "midiaTeaser": "imgs/rayssa_banner.jpg",
+          "tituloTrancado": "Conteúdo Exclusivo Bloqueado",
+          "subtituloTrancado": "Assine para desbloquear 1.700+ fotos e vídeos explícitos",
+          "planoTriggerId": "vitalicio",
+          "curtidas": "2.842",
+          "comentarios": "619"
+        },
+        {
+          "tempo": "Ontem",
+          "legenda": "Quer meu WhatsApp pessoal e ter acesso direto a mim todos os dias? Garanta o plano VIP VITALÍCIO e vem conversar comigo agora mesmo no privado amor! 😈💬🔥",
+          "midiaTeaser": "imgs/rayssa_profile.jpg",
+          "tituloTrancado": "Vídeo Exclusivo em 4K",
+          "subtituloTrancado": "Apenas para membros VIP",
+          "planoTriggerId": "vitalicio",
+          "curtidas": "4.120",
+          "comentarios": "890"
+        }
+      ]
+    }
+  }
+}

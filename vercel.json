@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/:modelo",
+      "destination": "/index.html?m=:modelo"
+    }
+  ]
+}
